@@ -1,0 +1,6 @@
+Open kstars
+Ctrl-k
+Select Simulator
+Start the ekos
+
+Can also be started with indiserver directly (with the right driver)
