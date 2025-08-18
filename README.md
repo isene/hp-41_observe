@@ -1,5 +1,10 @@
 # hp-41_observe
 
+[![HP-41](https://img.shields.io/badge/HP--41-Calculator-orange)](https://en.wikipedia.org/wiki/HP-41C)
+[![License](https://img.shields.io/badge/License-Public%20Domain-brightgreen.svg)](https://unlicense.org/)
+[![GitHub stars](https://img.shields.io/github/stars/isene/hp-41_observe.svg)](https://github.com/isene/hp-41_observe/stargazers)
+[![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
+
 Control your telescope via the HP-41 calculator! Create observation lists, start observing, control the telescope mount via an INDI server.
 
 This program makes it easy to create observation lists for the night. And the program makes it possible to use your HP-41 to control your telescope. The way this works is that the HP-41 "prints" the RA/DEC coordinates (stored in the observation list of choice) via Diego Diaz's USB41 module to your PC running the Ruby program "observe41.rb". This program connects to the INDI server running on your PC and sends the coordinates to your telescope mount via either Kstars or Stellarium (or similar program) that is set up to interface with your telescope.
