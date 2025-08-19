@@ -6,6 +6,7 @@
 [![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
 
 <img src="img/hp41_observe_logo.svg" align="left" width="150" height="150" alt="HP-41 Observe Logo">
+<br clear="left"/>
 
 Control your telescope via the HP-41 calculator! Create observation lists, start observing, control the telescope mount via an INDI server.
 
