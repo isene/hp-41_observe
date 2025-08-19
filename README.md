@@ -1,3 +1,5 @@
+<img src="img/hp41_observe_logo.svg" align="left" width="150" height="150" alt="HP-41 Observe Logo">
+
 # hp-41_observe
 
 [![HP-41](https://img.shields.io/badge/HP--41-Calculator-orange)](https://en.wikipedia.org/wiki/HP-41C)
